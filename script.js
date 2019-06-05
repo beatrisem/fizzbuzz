@@ -45,3 +45,5 @@ for (var i = 1; i <= 100; i++ ) {
         div.innerText = "number " + i;
     }
 }
+
+//contols
